@@ -1,0 +1,19 @@
+{
+    "author": "Ismael Ghalimi <ismael@stoic.com>",
+    "name": "formula.js",
+    "version": "1.0.8",
+    "description": "JavaScript implementation of most Microsoft Excel formula functions",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sutoiku/formula.js.git"
+    },
+    "autoupdate": {
+        "source": "git",
+        "target": "git://github.com/sutoiku/formula.js.git",
+        "basePath": "dist",
+        "files": [
+            "formula.js",
+            "formula.min.js"
+        ]
+    }
+}
