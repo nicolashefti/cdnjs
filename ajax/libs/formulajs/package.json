@@ -19,8 +19,7 @@
     {
       "basePath": "dist",
       "files": [
-        "formula.js",
-        "formula.min.js"
+        "**/*"
       ]
     }
   ]
